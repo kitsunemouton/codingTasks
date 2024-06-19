@@ -58,11 +58,11 @@ jupyter notebook Kmeans_task.ipynb
 
 #### 5. Here are some screenshots of the program in action:
 
-![Correlation map](screenshots/screenshot1.png)
+![Correlation map](Screenshots/Kmeans_task_screenshot_1.png)
 
-![Silhouette score](screenshots/screenshot2.png)
+![Silhouette score](Screenshots/Kmeans_task_screenshot_2.png)
 
-![Visualisation of clusters](screenshots/screenshot3.png)
+![Visualisation of clusters](Screenshots/Kmeans_task_screenshot_3.png)
 
 
 ## Credits
